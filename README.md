@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Big Data & Data Engineer Projects**
 
-- 👨‍💻 All of my projects are available at [https://beacons.ai/datafromlopes](https://beacons.ai/odiegolopes)
+- 👨‍💻 All of my projects are available at [https://beacons.ai/odiegolopes](https://beacons.ai/odiegolopes)
 
 - 📝 I regularly write articles on [https://odiegolopes.medium.com](https://odiegolopes.medium.com)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **oliveira.diegolopes@gmail.com**
 
-- 📄 Know about my experiences [https://beacons.ai/datafromlopes](https://beacons.ai/datafromlopes)
+- 📄 Know about my experiences [https://beacons.ai/odiegolopes](https://beacons.ai/odiegolopes)
 
 - ⚡ Fun fact **I'm private pilot**
 
