@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate on **Big Data & Data Engineer Projects**
 
-- 👨‍💻 All of my projects are available at [https://beacons.ai/datafromlopes](https://beacons.ai/datafromlopes)
+- 👨‍💻 All of my projects are available at [https://beacons.ai/datafromlopes](https://beacons.ai/odiegolopes)
 
-- 📝 I regularly write articles on [https://www.instagram.com/datafromlopes/](https://www.instagram.com/datafromlopes/)
+- 📝 I regularly write articles on [https://odiegolopes.medium.com](https://odiegolopes.medium.com)
 
 - 💬 Ask me about **Big Data | Databases | Data Engineering | Data Governance | Data Management | Data Architecture**
 
