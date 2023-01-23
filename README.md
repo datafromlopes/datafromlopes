@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Lopes</h1>
 <h3 align="center">A Senior Data Engineer at Pulsus</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datafromlopes" alt="datafromlopes" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=o-diegolopes" alt="o-diegolopes" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Big Data & Data Engineer Projects**
 
