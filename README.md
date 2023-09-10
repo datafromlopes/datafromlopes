@@ -5,17 +5,15 @@
 
 - 👯 I’m looking to collaborate on **Big Data & Data Engineer Projects**
 
-- 👨‍💻 All of my projects are available at [https://beacons.ai/odiegolopes](https://beacons.ai/odiegolopes)
+- 👨‍💻 All of my projects are available at [https://beacons.ai/odiegolopes](https://odiegolopes.tech)
 
-- 📝 I regularly write articles on [https://odiegolopes.medium.com](https://odiegolopes.medium.com)
+- 📝 I regularly write articles on [LINKEDIN NEWSLETTER - The Big(O): Exponential Data](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7044487723956527104)
 
 - 💬 Ask me about **Big Data | Databases | Data Engineering | Data Governance | Data Management | Data Architecture**
 
-- 📫 How to reach me **oliveira.diegolopes@gmail.com**
-
-- 📄 Know about my experiences [https://beacons.ai/odiegolopes](https://beacons.ai/odiegolopes)
-
-- ⚡ Fun fact **I'm private pilot**
+- 📫 How to reach me **odiegolopes.tech@gmail.com**
+  
+- ⚡ Fun fact **I'm private pilot ✈️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
