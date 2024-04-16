@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Transforming Natural Language Geospatial Queries to SQL](https://www.linkedin.com/in/odiegolopestech/details/projects/)
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on Big Data, AI and Architecture & Data Engineer Projects**
+- 👯 I’m looking to collaborate on **Big Data, AI and Architecture & Data Engineer Projects**
 
 - 💬 Ask me about **Architecture & Data Engineering | Data Governance | Data Management | Artificial Intelligence**
 
