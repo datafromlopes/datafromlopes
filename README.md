@@ -22,11 +22,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="font-size: 0;">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="vertical-align: middle;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
+  </a>&nbsp;
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="vertical-align: middle;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
+  </a>&nbsp;
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40" style="vertical-align: middle;" />
   </a>&nbsp;
