@@ -1,12 +1,30 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=odiegolopestech&label=Profile%20views&color=0e75b6&style=flat" alt="odiegolopestech" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=datafromlopes&label=Profile%20views&color=0e75b6&style=flat" alt="datafromlopes" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datafromlopes" alt="datafromlopes" /></a> </p>
 
-- 🔭 I’m currently working on [Transforming Natural Language Geospatial Queries to SQL](https://www.linkedin.com/in/odiegolopestech/details/projects/)
+<p>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap');
+    </style>
+    <h2 style="font-family: 'Montserrat'">Research Areas</h2>
+    <ul style="list-style-type: none; padding: 0; margin: 0; display: grid; grid-template-rows: repeat(2, auto); grid-auto-flow: column; gap: 10px; font-family: 'Montserrat', sans-serif;">
+        <li style="background-color: #9fbfdf; color: black; padding: 10px 15px; border-radius: 5px;">Artificial Intelligence (AI)</li>
+        <li style="background-color: #9fbfdf; color: black; padding: 10px 15px; border-radius: 5px;">Relational Databases</li>
+        <li style="background-color: #9fbfdf; color: black; padding: 10px 15px; border-radius: 5px;">Neural Networks</li>
+        <li style="background-color: #9fbfdf; color: black; padding: 10px 15px; border-radius: 5px;">Geospatial Data</li>
+        <li style="background-color: #9fbfdf; color: black; padding: 10px 15px; border-radius: 5px;">Generative AI</li>
+        <li style="background-color: #9fbfdf; color: black; padding: 10px 15px; border-radius: 5px;">Natural Language Processing (NLP)</li>
+        <li style="background-color: #9fbfdf; color: black; padding: 10px 15px; border-radius: 5px;">Computational Linguistics</li>
+    </ul>
+</p>
 
-- 👯 I’m looking to collaborate on **Big Data, AI and Architecture & Data Engineer Projects**
+<hr>
 
-- 💬 Ask me about **Architecture & Data Engineering | Data Governance | Data Management | Artificial Intelligence**
+- 🔭 I am currently working on the project [Transforming Natural Language Geospatial Queries to SQL](https://datafromlopes.com.br/projects-and-researches)
+
+- 🤝 I am looking to collaborate on **AI, Geospatial Data, Relational Databases, Computational Linguistics, and Data Engineering** Projects.
+
+- 💬 Ask me about Neural Networks, Geospatial Data, Natural Language Processing (NLP), Advanced Data Architecture, Engineering for AI Systems, Data Governance, and AI-driven Data Management.
 
 - 📫 How to reach me **https://datafromlopes.com.br**
 
@@ -14,10 +32,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/datafromlopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="odiegolopestech" height="30" width="40" /></a>
-<a href="https://instagram.com/datafromlopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="datafromlopes" height="30" width="40" /></a>
-<a href="https://medium.com/@datafromlopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@odiegolopestech" height="30" width="40" /></a>
+    <a href="https://datafromlopes.com.br" target="blank"><img align="center" src="https://raw.githubusercontent.com/datafromlopes/datafromlopes/main/internet-svgrepo-com.svg" alt="datafromlopes" height="30" width="30" /></a>
+    <a href="https://linkedin.com/in/datafromlopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="odiegolopestech" height="30" width="40" /></a>
+    <a href="https://medium.com/@datafromlopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@odiegolopestech" height="30" width="40" /></a>
+    <a href="https://instagram.com/datafromlopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="datafromlopes" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="font-size: 0;">
