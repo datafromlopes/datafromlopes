@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfólio</title>
+  <style>
+    /* Reset básico */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f3f3f3;
+      color: #333;
+    }
+
+    /* Estrutura do layout */
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 2em;
+    }
+
+    nav {
+      margin-top: 20px;
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+    }
+
+    nav a {
+      color: #333;
+      text-decoration: none;
+      font-weight: bold;
+      padding: 10px;
+      border-radius: 5px;
+      transition: background 0.3s;
+    }
+
+    nav a:hover {
+      background-color: #ddd;
+    }
+
+    /* Responsividade do grid */
+    .content {
+      display: grid;
+      gap: 20px;
+      grid-template-columns: 1fr;
+    }
+
+    /* Seção de Sobre */
+    .about, .research, .contact {
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .about h2, .research h2, .contact h2 {
+      font-size: 1.5em;
+      color: #333;
+      margin-bottom: 10px;
+    }
+
+    /* Cards de áreas de pesquisa */
+    .research-cards {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: space-between;
+    }
+
+    .card {
+      flex: 1 1 200px;
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      text-align: center;
+    }
+
+    .card h3 {
+      font-size: 1.2em;
+      margin-bottom: 5px;
+    }
+
+    /* Contato */
+    .contact form {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .contact input, .contact textarea, .contact button {
+      margin-top: 10px;
+      padding: 10px;
+      border-radius: 5px;
+      border: 1px solid #ddd;
+      font-size: 1em;
+    }
+
+    .contact button {
+      background-color: #333;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    .contact button:hover {
+      background-color: #555;
+    }
+
+    /* Responsividade */
+    @media (min-width: 600px) {
+      .content {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    @media (min-width: 900px) {
+      nav {
+        gap: 20px;
+      }
+      
+      .content {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Meu Portfólio</h1>
+      <p>Explorando Inteligência Artificial, NLP, Banco de Dados e mais.</p>
+    </header>
+
+    <nav>
+      <a href="#about">Sobre</a>
+      <a href="#research">Áreas de Pesquisa</a>
+      <a href="#contact">Contato</a>
+    </nav>
+
+    <section id="about" class="about">
+      <h2>Sobre Mim</h2>
+      <p>Sou um profissional em busca de aprimoramento constante, com foco em Inteligência Artificial, NLP, Banco de Dados Relacional, Dados Geoespaciais, Linguística e Data Augmentation.</p>
+    </section>
+
+    <section id="research" class="research">
+      <h2>Áreas de Pesquisa</h2>
+      <div class="research-cards">
+        <div class="card">
+          <h3>Inteligência Artificial</h3>
+          <p>Explorando modelos avançados e suas aplicações.</p>
+        </div>
+        <div class="card">
+          <h3>Processamento de Linguagem Natural</h3>
+          <p>Com foco em Text-to-SQL e outras técnicas de NLP.</p>
+        </div>
+        <div class="card">
+          <h3>Banco de Dados Relacional</h3>
+          <p>Desenvolvimento e otimização de bancos de dados.</p>
+        </div>
+        <div class="card">
+          <h3>Dados Geoespaciais</h3>
+          <p>Análise e aplicação de dados com contexto geoespacial.</p>
+        </div>
+        <div class="card">
+          <h3>Linguística</h3>
+          <p>Estudo da linguagem e suas estruturas.</p>
+        </div>
+        <div class="card">
+          <h3>Data Augmentation</h3>
+          <p>Técnicas para melhorar a qualidade dos dados.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="contact">
+      <h2>Contato</h2>
+      <form action="#" method="post">
+        <input type="text" name="name" placeholder="Seu Nome" required>
+        <input type="email" name="email" placeholder="Seu Email" required>
+        <textarea name="message" rows="4" placeholder="Sua Mensagem"></textarea>
+        <button type="submit">Enviar</button>
+      </form>
+    </section>
+  </div>
+</body>
+</html>
+
