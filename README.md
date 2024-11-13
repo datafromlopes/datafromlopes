@@ -1,7 +1,19 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=datafromlopes&label=Profile%20views&color=0e75b6&style=flat" alt="datafromlopes" /> </p>
+# Hi, I'm Diego Lopes
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datafromlopes" alt="datafromlopes" /></a> </p>
+#### MS. Student in Computer Science @ [IME-USP](https://www.ime.usp.br/en/home/) | Data Engineer & AI Researcher
 
+- 👨🏻‍💻 I am a data engineer with 6 years of experience
+
+- 🔭 I am currently working on the project [Transforming Natural Language Geospatial Queries to SQL](https://datafromlopes.com.br/projects-and-researches)
+
+- 🤝 I am looking to collaborate on **AI, Geospatial Data, Relational Databases, Computational Linguistics, and Data Engineering** Projects.
+
+- 💬 Ask me about Neural Networks, Geospatial Data, Natural Language Processing (NLP), Advanced Data Architecture, Engineering for AI Systems, Data Governance, and AI-driven Data Management.
+
+- 📫 How to reach me **https://datafromlopes.com.br**
+
+- ⚡ Fun fact **I'm private pilot ✈️**
+  
 ---
 ### Research Areas
 - Artificial Intelligence (AI)
@@ -14,17 +26,6 @@
 
 <hr>
 
-- 🔭 I am currently working on the project [Transforming Natural Language Geospatial Queries to SQL](https://datafromlopes.com.br/projects-and-researches)
-
-- 🤝 I am looking to collaborate on **AI, Geospatial Data, Relational Databases, Computational Linguistics, and Data Engineering** Projects.
-
-- 💬 Ask me about Neural Networks, Geospatial Data, Natural Language Processing (NLP), Advanced Data Architecture, Engineering for AI Systems, Data Governance, and AI-driven Data Management.
-
-- 📫 How to reach me **https://datafromlopes.com.br**
-
-- ⚡ Fun fact **I'm private pilot ✈️**
-
----
 ### Languages and Tools
 
 #### Programming Languages 
