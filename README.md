@@ -55,6 +55,7 @@
 <span><a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" /></a></span>&nbsp;&nbsp;&nbsp;
 <span><a href="https://airflow.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40" /></a></span>&nbsp;&nbsp;&nbsp;
 <span><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a></span>&nbsp;&nbsp;&nbsp;
+<span><a href="https://spark.apache.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Apache Spark" width="40" height="40" /></a></span>&nbsp;&nbsp;&nbsp;
 
 <hr>
 
