@@ -1,10 +1,10 @@
 # Hi, I'm Diego Lopes
 
-#### Senior Data Engineer | MSc. @ [IME-USP](https://www.ime.usp.br/en/home/) | AI Researcher in Computational Linguistics, NLP, LLMs, and Neural Networks | AWS Certified | Scalable Data Solutions
+#### Senior Data Engineer | MSc. @ [IME-USP](https://www.ime.usp.br/en/home/) | AI Researcher | Computational Linguistics, NLP & LLMs
 
 - 👨🏻‍💻 I am a data engineer with 6 years of experience
 
-- 🔭 I am currently working on the project [Transforming Natural Language Geospatial Queries to SQL](https://datafromlopes.com.br/projects-and-researches)
+- 🔭 I am currently working on the project [Automated Translation of Natural Language Geospatial Queries into SQL](https://datafromlopes.github.io/translation-geo-queries-into-sql/)
 
 - 🤝 I am looking to collaborate on **AI, Computational Linguistics, NLP, LLMs, and Neural Networks, and Data Engineering** Projects.
 
@@ -19,11 +19,9 @@
 - Artificial Intelligence (AI)
     - Neural Networks
     - Generative AI
+    - Large Language Models (LLM)
 - Natural Language Processing (NLP)
 - Computational Linguistics
-- Relational Databases
-- Geospatial Data
-
 <hr>
 
 ### Languages and Tools
