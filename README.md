@@ -2,17 +2,15 @@
 
 #### Senior Data Engineer | MSc. @ [IME-USP](https://www.ime.usp.br/en/home/) | AI Researcher | Computational Linguistics, NLP & LLMs
 
-- 👨🏻‍💻 I am a data engineer with 6 years of experience
+- 👨🏻‍💻 I am a data engineer with 7 years of experience
 
-- 🔭 I am currently working on the project [Automated Translation of Natural Language Geospatial Queries into SQL](https://datafromlopes.github.io/translation-geo-queries-into-sql/)
+- 🔭 I am currently working on the project [Automated Translation of Natural Language Geospatial Queries into SQL](https://github.com/datafromlopes/geo-nlq-to-sql)
 
-- 🤝 I am looking to collaborate on **AI, Computational Linguistics, NLP, LLMs, and Neural Networks, and Data Engineering** Projects.
+- 🤝 I am looking to collaborate on **Computational Linguistics, NLP, LLMs, Neural Networks, and Data Engineering** Projects.
 
-- 💬 Ask me about Neural Networks, Geospatial Data, Natural Language Processing (NLP), Advanced Data Architecture, Engineering for AI Systems, Data Governance, and AI-driven Data Management.
+- 📫 How to reach me **https://datafromlopes.com** - Here you can find my e-mail and social accounts.
 
-- 📫 How to reach me **https://datafromlopes.com**
-
-- ⚡ Fun fact **I'm private pilot ✈️**
+- ⚡ Fun fact **I'm private pilot ✈️ I love aircrafts and aviation**
   
 ---
 ### Research Areas
@@ -22,7 +20,8 @@
     - Large Language Models (LLM)
 - Natural Language Processing (NLP)
 - Computational Linguistics
-<hr>
+
+---
 
 ### Languages and Tools
 
@@ -55,17 +54,7 @@
 <span><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a></span>
 <span><a href="https://spark.apache.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Apache Spark" width="100" height="50" /></a></span>&nbsp;&nbsp;&nbsp;
 
-<hr>
+---
 
-### Connect with me
-
-<p align="left">
-    <span><a href="https://datafromlopes.com.br" target="blank"><img src="https://raw.githubusercontent.com/datafromlopes/datafromlopes/main/internet-svgrepo-com.svg" alt="datafromlopes" height="30" width="30" /></a></span>&nbsp;&nbsp;&nbsp;
-    <span><a href="https://linkedin.com/in/datafromlopes" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="odiegolopestech" height="30" width="40" /></a></span>&nbsp;&nbsp;&nbsp;
-    <span><a href="https://medium.com/@datafromlopes" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@odiegolopestech" height="30" width="40" /></a></span>&nbsp;&nbsp;&nbsp;
-    <span><a href="https://instagram.com/datafromlopes" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="datafromlopes" height="30" width="40" /></a></span>
-</p>
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/odiegolopestech"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="odiegolopestech" /></a></p><br><br>
+### Support
+<p><a href="buymeacoffee.com/datafromlopes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="odiegolopestech" /></a></p><br><br>
