@@ -1,6 +1,6 @@
 # Hi, I'm Diego Lopes
-
-#### Senior Data Engineer | MSc. @ [IME-USP](https://www.ime.usp.br/en/home/) | AI Researcher | Computational Linguistics, NLP & LLMs
+#### MSc Candidate in Computer Science @ [IME-USP](https://www.ime.usp.br/en/home/) 
+#### Senior Data Engineer & Researcher | Business Metrics & Analytical Modeling | Distributed Systems & Large-Scale Pipelines | Neural Networks, LLMs, NLP
 
 - 👨🏻‍💻 I am a data engineer with 7 years of experience
 
