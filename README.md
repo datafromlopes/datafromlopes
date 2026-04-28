@@ -1,77 +1,69 @@
-# Hi, I'm Diego Lopes
+## Hi, I'm Diego Lopes 🤘🏻 
 
-#### Lead Data Engineer | MSc. @ [IME-USP](https://www.ime.usp.br/en/home/) | Distributed Systems & Large-Scale Data Platforms | AI/NLP Researcher in Computational Linguistics & Neural Language Modeling
+#### Software Engineer, Data · MSc. @ IME-USP · NLP Researcher · Text-to-SQL & NL Interfaces for Databases
 
-I work at the intersection of **large-scale data systems** and **computational modeling of natural language**.  
-My engineering focus is building reliable, high-throughput distributed data platforms.  
-My research focuses on understanding **how natural language can be represented, modeled, and transformed into machine-executable structures**.
+I build large-scale distributed data systems and research natural language interfaces for structured data.
 
-In practice, this means combining:
+My engineering work focuses on high-throughput, mission-critical data platforms — distributed storage, 
+real-time pipelines, and federated query systems operating at scale.
 
-- Distributed systems and data infrastructure  
-- Neural models for language  
-- Computational linguistics  
-- Structured representations derived from human language  
+My research at the University of São Paulo (USP) sits at the intersection of **NLP and databases** — 
+specifically, how large language models can be fine-tuned to understand complex data schemas and 
+translate natural language into executable SQL. I work on the problems that live at the boundary 
+of computational linguistics, neural language modeling, and production data infrastructure.
 
-## Research Focus
+## Research
 
-My work explores how machines can process and reason over human language beyond surface text generation. Core themes include:
+- **Text-to-SQL** — natural language interfaces for relational databases
+- **Schema linking** — mapping linguistic structure to database schemas
+- **LLM fine-tuning** — adapting language models to structured data domains
+- **Computational linguistics** — formal representations of language for machine reasoning
 
-- **Computational representation of language**  
-- **Neural language modeling**  
-- **Natural language to structured/formal representations** (e.g., queries, logical forms)  
-- **Bridging linguistic structure and machine learning models**  
-- **Language as an interface to data systems**
-  
 ## Current Project
 
-🔭 **Automated Translation of Natural Language Geospatial Queries into SQL** 
+🔭 **Natural Language Interfaces for Databases**  
+Fine-tuning and evaluation of LLMs for Text-to-SQL tasks — with a focus on complex schemas, 
+cross-domain generalization, and Portuguese language support.
 
-Research and engineering project on mapping human language into structured database queries for geospatial data systems.  
-This sits at the intersection of NLP, neural modeling, and real-world data infrastructure.  
-
-👉 https://github.com/datafromlopes/geo-nlq-to-sql
-
-## Collaboration Interests
-
-I am open to collaborating on projects involving:
-
-- Computational Linguistics  
-- Natural Language Processing  
-- Neural language models  
-- Language-to-structure or language-to-code systems  
-- AI systems built on top of large-scale data platforms
+👉 [github.com/datafromlopes/geo-nlq-to-sql](https://github.com/datafromlopes/geo-nlq-to-sql)
 
 ## Engineering Background
 
-I have 7+ years of experience designing and operating **large-scale, distributed, production data systems**, including:
+7+ years designing and operating production-grade distributed data systems:
 
-- High-throughput data platforms  
-- Distributed storage and processing  
-- Data-intensive system architecture
+- High-throughput transactional platforms (Apache Cassandra — billions of writes, microsecond latency)
+- Lakehouse architecture (Apache Iceberg on AWS, federated queries with Trino)
+- Real-time and batch ELT pipelines at scale
+- Data platform reliability and performance engineering
 
 ## Technologies
 
-**Programming**  
-C • C++ • Python  
+**Languages**  
+Python · C++ · C · SQL
 
-**Data & Storage**  
-PostgreSQL • MySQL • Apache Cassandra • MongoDB  
+**Databases & Storage**  
+PostgreSQL · Apache Cassandra · MongoDB · MySQL
 
-**Data Processing & Distributed Systems**  
-Hadoop • Hive • Spark • Kafka • Trino  
+**Distributed Systems & Processing**  
+Apache Spark · Kafka · Trino · Hive · Hadoop
 
-**Infrastructure & Tools**  
-AWS • Docker • Airflow • Grafana • Git  
+**Data Platform**  
+Apache Airflow · Apache Iceberg · AWS · Docker
 
-**Machine Learning**  
-PyTorch
+**ML & NLP**  
+PyTorch · HuggingFace Transformers
+
+## Open to Collaborating On
+
+- Text-to-SQL and natural language interfaces for databases
+- LLM fine-tuning for structured data domains
+- NLP applied to Portuguese language
+- Large-scale data platform architecture
 
 ## Contact
 
-📫 https://datafromlopes.com  
-Contact details and social links available on the website.
+📫 [datafromlopes.com](https://datafromlopes.com)
 
-## Beyond Tech
+---
 
 ⚡ Private pilot — aviation and aircraft systems enthusiast ✈️
