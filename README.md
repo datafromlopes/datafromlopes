@@ -1,5 +1,5 @@
 ## Hi, I'm Diego Lopes 🤘🏻
-#### Software Engineer, Data · MSc. @ IME-USP · NLP Researcher · Natural Language Interfaces for Databases
+#### Lead Data Engineer · MSc. @ IME-USP · NLP Researcher · Natural Language Interfaces for Databases
 
 I build large-scale distributed data systems and research natural language interfaces for structured data.
 My engineering work focuses on high-throughput, mission-critical data platforms, distributed storage,
