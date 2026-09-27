@@ -32,7 +32,7 @@ MSc in Computer Science, IME-USP (dissertation submitted, defense in October 202
 | Project | What it is |
 |---|---|
 | [atlas-sql-br](https://github.com/datafromlopes/atlas-sql-br) | Geospatial Text-to-SQL dataset in Portuguese, fine-tuning pipeline and execution-based evaluation framework (PostGIS, sqlglot, MLflow) |
-| [matrix_multiply_optimizer](https://github.com/datafromlopes/matrix_multiply_optimizer) | Matrix multiplication in C, from naive loop to cache-blocked and vectorized, profiled with gprof and perf. 99.3% less execution time than baseline |
+| [matrix-kernel-optimization](https://github.com/datafromlopes/matrix-kernel-optimization) | Matrix multiplication in C, from naive loop to cache-blocked and vectorized, profiled with gprof and perf. 99.3% less execution time than baseline |
 
 ## Stack
 
